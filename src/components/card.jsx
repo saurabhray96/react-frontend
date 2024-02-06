@@ -5,7 +5,7 @@ const card = (props) => {
  let a=0;
   return (
    <>
-   <div className='card w-screen h-screen bg-red-700 pt-14'>
+   <div className='card w-screen h-screen  pt-14'>
    <h1 className='text-6xl float-left ml-10 font-serif text-white ' >Shadi</h1>
    <div className='float-right flex center mr-10 text-white text-xl name' >
     <button className='name'>Login</button><button className='rotate-90 name'>➤</button>
