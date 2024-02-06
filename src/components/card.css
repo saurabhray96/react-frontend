@@ -1,0 +1,30 @@
+.card{
+    background-image: url(https://wallpaperaccess.com/full/2008544.jpg);
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.form{
+    width: screen;
+    height: 30%;
+   padding-left: 2%;
+   padding-right: 2%;
+   padding-bottom: 3%;
+    background-color: rgba(14, 15, 16, 0.276);
+}
+.btnlets{
+    margin-top: 10px;
+  margin-right: 2%;
+width: 96%;
+background-color: rgb(43, 168, 193);
+}
+.name{
+    text-shadow: 1px 1px 4px black;
+}
+body{
+    background-color: rgb(240, 234, 234);
+}
+.com{
+    
+    margin-top:18px ;
+    transform: rotate(90deg);
+}
